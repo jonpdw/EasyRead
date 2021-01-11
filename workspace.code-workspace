@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript-text-to-speech-master",
+		"files.exclude": {
+			"**/.vscode": true,
+			"**/node_modules": true,
+			"**/package-lock.json": true,
+			"**/package.json": true
+		},
+		"cSpell.language": "en,en-GB"
+	}
+}
